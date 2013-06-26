@@ -1,0 +1,18 @@
+C:\Users\isaac\AppData\Local\Temporary Projects\PAQ Launcher\bin\Debug\PAQ Launcher.exe
+C:\Users\isaac\AppData\Local\Temporary Projects\PAQ Launcher\bin\Debug\PAQ Launcher.pdb
+C:\Users\isaac\AppData\Local\Temporary Projects\PAQ Launcher\bin\Debug\PAQ Launcher.xml
+C:\Users\isaac\AppData\Local\Temporary Projects\PAQ Launcher\obj\x86\Debug\PAQ_Launcher.Form1.resources
+C:\Users\isaac\AppData\Local\Temporary Projects\PAQ Launcher\obj\x86\Debug\PAQ_Launcher.Resources.resources
+C:\Users\isaac\AppData\Local\Temporary Projects\PAQ Launcher\obj\x86\Debug\PAQ Launcher.vbproj.GenerateResource.Cache
+C:\Users\isaac\AppData\Local\Temporary Projects\PAQ Launcher\obj\x86\Debug\PAQ Launcher.exe
+C:\Users\isaac\AppData\Local\Temporary Projects\PAQ Launcher\obj\x86\Debug\PAQ Launcher.xml
+C:\Users\isaac\AppData\Local\Temporary Projects\PAQ Launcher\obj\x86\Debug\PAQ Launcher.pdb
+C:\Users\isaac\documents\visual studio 2010\Projects\PAQ Launcher\PAQ Launcher\obj\x86\Debug\PAQ Launcher.exe
+C:\Users\isaac\documents\visual studio 2010\Projects\PAQ Launcher\PAQ Launcher\obj\x86\Debug\PAQ Launcher.xml
+C:\Users\isaac\documents\visual studio 2010\Projects\PAQ Launcher\PAQ Launcher\obj\x86\Debug\PAQ Launcher.pdb
+C:\Users\isaac\documents\visual studio 2010\Projects\PAQ Launcher\PAQ Launcher\bin\Debug\PAQ Launcher.exe
+C:\Users\isaac\documents\visual studio 2010\Projects\PAQ Launcher\PAQ Launcher\bin\Debug\PAQ Launcher.pdb
+C:\Users\isaac\documents\visual studio 2010\Projects\PAQ Launcher\PAQ Launcher\bin\Debug\PAQ Launcher.xml
+C:\Users\isaac\documents\visual studio 2010\Projects\PAQ Launcher\PAQ Launcher\obj\x86\Debug\PAQ_Launcher.Form1.resources
+C:\Users\isaac\documents\visual studio 2010\Projects\PAQ Launcher\PAQ Launcher\obj\x86\Debug\PAQ_Launcher.Resources.resources
+C:\Users\isaac\documents\visual studio 2010\Projects\PAQ Launcher\PAQ Launcher\obj\x86\Debug\PAQ Launcher.vbproj.GenerateResource.Cache
